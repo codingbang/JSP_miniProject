@@ -1,0 +1,20 @@
+.mytable {
+		border-right: 1px solid #dddddd;
+	}
+	
+	.mytable th{
+		background-color: #eeeeee; text-align: center; border-right: 1px solid #dddddd;
+	}
+	
+	.mytable-tds{
+		text-align: center; border-right: 1px solid #dddddd;
+	}
+	
+	.mytable-title{
+		border-right: 1px solid #dddddd;
+		
+	}
+	
+	.mytable-id{
+		width: 15%; border-right: 1px solid #dddddd;
+	}
